@@ -11,7 +11,14 @@ let count = 3;
 
 while(process.argv[count]){
 
-	myQuery += process.argv[count]+" ";
+	if(process.argv[count+1]){
+		
+		myQuery += process.argv[count]+" ";
+	}
+	else{
+
+		myQuery += process.argv[count];
+	}
 	count++;
 }
 
@@ -45,7 +52,7 @@ function doSays(){
 		    return console.log(err);
 		}
 
-		myQuery = data;
+		myQuery = data.slice(0,-1);
 		console.log(myQuery.length);
 		console.log(myQuery);
 		spotifyThis();
@@ -117,7 +124,7 @@ function spotifyThis(){
 						// console.log(tracksArr[i].artists[0].name);
 						// console.log("---------------------------------------------");
 				
-				if(tracksArr[i].name === myQuery.slice(0,-1)){
+				if(tracksArr[i].name === myQuery){
 					// console.log(tracksArr[i].name);
 					// console.log(tracksArr[i].artists[0].name);
 					// console.log("---------------------------------------------");
