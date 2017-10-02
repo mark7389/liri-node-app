@@ -26,7 +26,7 @@ switch(myCommand){
 	case "movie-this": movieData();
 	break;
 
-	case "do-what-it-says": ;
+	case "do-what-it-says": doSays();
 	break;
 
 	default: console.log("Please Enter a Command: "+"\n"+"* my-tweets"
@@ -35,6 +35,24 @@ switch(myCommand){
 	break;
 
 } 
+
+function doSays(){
+
+	fs.readFile("random.txt", "utf8", function(err, data){
+
+		if (err) {
+
+		    return console.log(err);
+		}
+
+		myQuery = data;
+		console.log(myQuery.length);
+		console.log(myQuery);
+		spotifyThis();
+
+	});
+
+}
 
 function getTweets(){
 
@@ -73,12 +91,13 @@ function spotifyThis(){
 
 				myQuery[j] = myQuery[j].charAt(0).toUpperCase() + myQuery[j].slice(1);
 
+
 			}
 			
 		}
 
 		myQuery = myQuery.join(" ");
-		// console.log(myQuery);
+		
 		
 	}
 
@@ -89,23 +108,27 @@ function spotifyThis(){
 		}
 		else{
 
-			// console.log(data.tracks.items);
+			//console.log(data.tracks.items);
 			let ctr = 0;
 			let tracksArr = data.tracks.items;
-			let artist, songName, link, songAlbum ;
+			let artist, songName, link = "Not Available!", songAlbum ;
 			for(var i = 0; i<tracksArr.length; i++){
 					 // console.log(tracksArr[i]);
 						// console.log(tracksArr[i].artists[0].name);
 						// console.log("---------------------------------------------");
-
-				if(tracksArr[i].name+" " == myQuery){
+				
+				if(tracksArr[i].name === myQuery.slice(0,-1)){
 					// console.log(tracksArr[i].name);
 					// console.log(tracksArr[i].artists[0].name);
 					// console.log("---------------------------------------------");
 					ctr++;
 					artist = tracksArr[i].album.artists[0].name;
 					songName = myQuery;
-					link = tracksArr[i].preview_url;
+					if(tracksArr[i].preview_url){
+						
+						link = tracksArr[i].preview_url;
+
+					}
 					songAlbum = tracksArr[i].album.name;
 					console.log("Result[ "+ctr+" ]:"+"\n"+"--------"+"\n\n"+
 						">> Artist: " +artist+"\n\n"+
