@@ -3,10 +3,13 @@ const keys = require("./keys.js");
 const request = require("request");
 const client = keys.twitterKeys;
 const spotifyClient = keys.spotifyKeys;
+const log = "log.txt";
+
+var twitterData = "", spotifyData = "" , movieInfo = "";
 
 let myCommand = process.argv[2];
 let myQuery = "";
-
+let logFile = false;
 let count = 3;
 
 while(process.argv[count]){
@@ -21,6 +24,52 @@ while(process.argv[count]){
 	}
 	count++;
 }
+
+fs.readdir(".", function(err, data){
+
+	if(err){
+
+		return console.log(err);
+	}
+
+	for(let i = 0; i<data.length; i++){
+
+		if(data[i] == log){
+
+			logFile = true;
+		}
+		
+	} 
+
+});
+function appendLog(results){
+
+
+	if(logFile){
+
+		fs.appendFile(log, "command: "+myCommand+"\n"+"Searched For: "+myQuery+"\n"+"Results: "+"\n\n"+results+"\n\n"+
+			"++++++++++++++++++++++++++++++++++++++++++++++"+"\n", (err)=>{
+
+				if(err) throw err;
+				console.log("log updated");
+
+			});
+
+	}
+	else{
+
+		fs.writeFile(log, "command: "+myCommand+"\n"+"Searched For: "+myQuery+"\n"+"Results: "+"\n\n"+results+"\n\n"+
+			"++++++++++++++++++++++++++++++++++++++++++++++"+"\n", (err)=>{
+
+				if(err) throw err;
+				console.log("log Created");
+
+			});
+
+	}
+}
+
+
 
 switch(myCommand){
 
@@ -70,9 +119,13 @@ function getTweets(){
 			
 			for(var i=0; i<20; i++){
 
-				console.log("Tweet: "+tweets[i].text+"\n\n Created@>> "+tweets[i].created_at+"\n");
+				twitterData += "Tweet: "+tweets[i].text+"\n\n Created@>> "+tweets[i].created_at+"\n\n";
+				
+				
 
 			};
+			console.log(twitterData);
+			appendLog(twitterData);
 		}
 
 
@@ -137,15 +190,18 @@ function spotifyThis(){
 
 					}
 					songAlbum = tracksArr[i].album.name;
-					console.log("Result[ "+ctr+" ]:"+"\n"+"--------"+"\n\n"+
-						">> Artist: " +artist+"\n\n"+
-						">> Song Title: "+songName+"\n\n"+
-						">> Album: "+songAlbum+"\n\n"+
-						">> Listen to Preview At: "+link+"\n"+"____________________________"+"\n");
-
+					spotifyData += "Result[ "+ctr+" ]:"+"\n"+"--------"+"\n\n"+
+								  ">> Artist: " +artist+"\n\n"+
+						          ">> Song Title: "+songName+"\n\n"+
+						          ">> Album: "+songAlbum+"\n\n"+
+						          ">> Listen to Preview At: "+link+"\n"+"____________________________"+"\n";
+					
 				}
 
 			}
+
+			console.log(spotifyData);
+			appendLog(spotifyData);
 			
 		}
 
@@ -169,15 +225,16 @@ function movieData(){
   				
 
   				var myObj = JSON.parse(body);
-   			 	console.log(" * Title of the movie: "+myObj.Title+"\n\n"+
+  				movieInfo = " * Title of the movie: "+myObj.Title+"\n\n"+
    			 				" * Year the movie came out: "+myObj.Year+"\n\n"+
    			 				" * IMDB Rating of the Movie: "+myObj.imdbRating+"\n\n"+
    			 				" * Rotten Tomatoes Rating of the movie: "+myObj.Ratings[1].Value+"\n\n"+
    			 				" * Country where the movie was produced: "+myObj.Country+"\n\n"+
    			 				" * Language of the movie: "+myObj.Language+"\n\n"+
    			 				" * Plot of the movie: "+myObj.Plot+"\n\n"+
-   			 				" * Actors in the movie: "+myObj.Actors+"\n\n");
-
+   			 				" * Actors in the movie: "+myObj.Actors+"\n\n"; 
+   			 	console.log(movieInfo);
+   			 	appendLog(movieInfo);
   			}
 });
 

@@ -1,0 +1,366 @@
+command: my-tweets
+Searched For: 
+Results: 
+
+Tweet: RT @ClickHole: Sustainability FTW! This Couple Cooks All The Chunks Of Meat That Come Flying Out Of The Portal That Opened Up In Its Backya…
+
+ Created@>> Sat Sep 30 02:43:26 +0000 2017
+
+Tweet: When will I build a package
+
+ Created@>> Sat Sep 30 02:43:12 +0000 2017
+
+Tweet: Not sure the node app is secure
+
+ Created@>> Sat Sep 30 02:42:34 +0000 2017
+
+Tweet: When where why
+
+ Created@>> Sat Sep 30 02:42:11 +0000 2017
+
+Tweet: Who to Follow
+
+ Created@>> Sat Sep 30 02:41:53 +0000 2017
+
+Tweet: aaaaa bbbb cccc
+
+ Created@>> Sat Sep 30 02:41:40 +0000 2017
+
+Tweet: are they 20 yet
+
+ Created@>> Sat Sep 30 02:41:25 +0000 2017
+
+Tweet: This gets someone rich and famous
+
+ Created@>> Sat Sep 30 02:41:06 +0000 2017
+
+Tweet: This gets a journalist fired
+
+ Created@>> Sat Sep 30 02:40:27 +0000 2017
+
+Tweet: This gets retweeted a lot
+
+ Created@>> Sat Sep 30 02:40:17 +0000 2017
+
+Tweet: Something really important that nobody pays attention to
+
+ Created@>> Sat Sep 30 02:40:00 +0000 2017
+
+Tweet: Some news that will soon be forgotten
+
+ Created@>> Sat Sep 30 02:39:24 +0000 2017
+
+Tweet: woop woop
+
+ Created@>> Sat Sep 30 02:38:59 +0000 2017
+
+Tweet: Something the donald will tweet
+
+ Created@>> Sat Sep 30 02:38:45 +0000 2017
+
+Tweet: Something a celebrity will tweet
+
+ Created@>> Sat Sep 30 02:38:16 +0000 2017
+
+Tweet: Something an activist will tweet
+
+ Created@>> Sat Sep 30 02:37:57 +0000 2017
+
+Tweet: RT @TheOnion: Horrified Man Looks On Powerlessly As He Ruins Date https://t.co/USNEwLJrWm https://t.co/ANLN5crf7b
+
+ Created@>> Sat Sep 30 02:37:00 +0000 2017
+
+Tweet: RT @SenSanders: Republicans' budget would cut Medicare by at least $450 billion, but would give billionaires, including President Trump, hu…
+
+ Created@>> Sat Sep 30 02:36:49 +0000 2017
+
+Tweet: Testing node
+
+ Created@>> Sat Sep 30 02:36:15 +0000 2017
+
+Tweet: Hi
+
+ Created@>> Sat Sep 30 02:33:36 +0000 2017
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++
+command: movie-this
+Searched For: Mr Nobody
+Results: 
+
+ * Title of the movie: Mr. Nobody
+
+ * Year the movie came out: 2009
+
+ * IMDB Rating of the Movie: 7.9
+
+ * Rotten Tomatoes Rating of the movie: 64%
+
+ * Country where the movie was produced: Belgium, Germany, Canada, France, USA, UK
+
+ * Language of the movie: English, Mohawk
+
+ * Plot of the movie: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+
+ * Actors in the movie: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++
+command: do-what-it-says
+Searched For: I Want It That Way
+Results: 
+
+Result[ 1 ]:
+--------
+
+>> Artist: Backstreet Boys
+
+>> Song Title: I Want It That Way
+
+>> Album: The Hits--Chapter One
+
+>> Listen to Preview At: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=d64873b961364518b9538bcb84b5db2a
+____________________________
+Result[ 2 ]:
+--------
+
+>> Artist: Backstreet Boys
+
+>> Song Title: I Want It That Way
+
+>> Album: The Essential Backstreet Boys
+
+>> Listen to Preview At: https://p.scdn.co/mp3-preview/f9f504a705fcaaf2f24b004b629725451014ad6c?cid=d64873b961364518b9538bcb84b5db2a
+____________________________
+Result[ 3 ]:
+--------
+
+>> Artist: Backstreet Boys
+
+>> Song Title: I Want It That Way
+
+>> Album: Millennium
+
+>> Listen to Preview At: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=d64873b961364518b9538bcb84b5db2a
+____________________________
+Result[ 4 ]:
+--------
+
+>> Artist: Anthem Lights
+
+>> Song Title: I Want It That Way
+
+>> Album: Covers Part IV
+
+>> Listen to Preview At: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=d64873b961364518b9538bcb84b5db2a
+____________________________
+Result[ 5 ]:
+--------
+
+>> Artist: Manuel Costa
+
+>> Song Title: I Want It That Way
+
+>> Album: I Want It That Way
+
+>> Listen to Preview At: https://p.scdn.co/mp3-preview/cdde86f49ca4ef217ac08bbbb0c6295c16f015b0?cid=d64873b961364518b9538bcb84b5db2a
+____________________________
+Result[ 6 ]:
+--------
+
+>> Artist: Various Artists
+
+>> Song Title: I Want It That Way
+
+>> Album: 90 Sweet 90s Hits!
+
+>> Listen to Preview At: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=d64873b961364518b9538bcb84b5db2a
+____________________________
+Result[ 7 ]:
+--------
+
+>> Artist: Various Artists
+
+>> Song Title: I Want It That Way
+
+>> Album: Punk Goes Pop
+
+>> Listen to Preview At: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=d64873b961364518b9538bcb84b5db2a
+____________________________
+Result[ 8 ]:
+--------
+
+>> Artist: Kyle Olthoff
+
+>> Song Title: I Want It That Way
+
+>> Album: I Want It That Way
+
+>> Listen to Preview At: https://p.scdn.co/mp3-preview/101776fe4fc24aac543f6b4c5aa4273ac9d2dcc4?cid=d64873b961364518b9538bcb84b5db2a
+____________________________
+Result[ 9 ]:
+--------
+
+>> Artist: Boyce Avenue
+
+>> Song Title: I Want It That Way
+
+>> Album: New Acoustic Sessions, Vol. 3
+
+>> Listen to Preview At: https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=d64873b961364518b9538bcb84b5db2a
+____________________________
+Result[ 10 ]:
+--------
+
+>> Artist: Landon Austin
+
+>> Song Title: I Want It That Way
+
+>> Album: I Want It That Way
+
+>> Listen to Preview At: https://p.scdn.co/mp3-preview/e777be5446dc3df34abc2eaec241edb5a590976c?cid=d64873b961364518b9538bcb84b5db2a
+____________________________
+Result[ 11 ]:
+--------
+
+>> Artist: Steel Panther
+
+>> Song Title: I Want It That Way
+
+>> Album: I Want It That Way
+
+>> Listen to Preview At: https://p.scdn.co/mp3-preview/e777be5446dc3df34abc2eaec241edb5a590976c?cid=d64873b961364518b9538bcb84b5db2a
+____________________________
+Result[ 12 ]:
+--------
+
+>> Artist: Various Artists
+
+>> Song Title: I Want It That Way
+
+>> Album: NOW That's What I Call 90s Pop
+
+>> Listen to Preview At: https://p.scdn.co/mp3-preview/c9302062adf4f59e60335f30c7ca46b487a267fb?cid=d64873b961364518b9538bcb84b5db2a
+____________________________
+Result[ 13 ]:
+--------
+
+>> Artist: NKOTBSB
+
+>> Song Title: I Want It That Way
+
+>> Album: NKOTBSB
+
+>> Listen to Preview At: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=d64873b961364518b9538bcb84b5db2a
+____________________________
+Result[ 14 ]:
+--------
+
+>> Artist: Scott Bradlee's Postmodern Jukebox
+
+>> Song Title: I Want It That Way
+
+>> Album: Selfies on Kodachrome
+
+>> Listen to Preview At: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=d64873b961364518b9538bcb84b5db2a
+____________________________
+Result[ 15 ]:
+--------
+
+>> Artist: Scott Bradlee's Postmodern Jukebox
+
+>> Song Title: I Want It That Way
+
+>> Album: PMJ Is For Lovers: The Love Song Collection
+
+>> Listen to Preview At: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=d64873b961364518b9538bcb84b5db2a
+____________________________
+Result[ 16 ]:
+--------
+
+>> Artist: Jason Chen
+
+>> Song Title: I Want It That Way
+
+>> Album: I Want It That Way
+
+>> Listen to Preview At: https://p.scdn.co/mp3-preview/cba62099b5bec2bc9244aaeaba0422556f6df04e?cid=d64873b961364518b9538bcb84b5db2a
+____________________________
+
+
+++++++++++++++++++++++++++++++++++++++++++++++
+command: spotify-this-song
+Searched For: In The End
+Results: 
+
+Result[ 1 ]:
+--------
+
+>> Artist: Linkin Park
+
+>> Song Title: In The End
+
+>> Album: Hybrid Theory (Bonus Track Version)
+
+>> Listen to Preview At: https://p.scdn.co/mp3-preview/23552502ef8477c882d6f2ae07e7579f38b8a92d?cid=d64873b961364518b9538bcb84b5db2a
+____________________________
+Result[ 2 ]:
+--------
+
+>> Artist: Black Veil Brides
+
+>> Song Title: In The End
+
+>> Album: Wretched And Divine: The Story Of The Wild Ones
+
+>> Listen to Preview At: https://p.scdn.co/mp3-preview/23552502ef8477c882d6f2ae07e7579f38b8a92d?cid=d64873b961364518b9538bcb84b5db2a
+____________________________
+Result[ 3 ]:
+--------
+
+>> Artist: Linkin Park
+
+>> Song Title: In The End
+
+>> Album: Hybrid Theory
+
+>> Listen to Preview At: https://p.scdn.co/mp3-preview/23552502ef8477c882d6f2ae07e7579f38b8a92d?cid=d64873b961364518b9538bcb84b5db2a
+____________________________
+Result[ 4 ]:
+--------
+
+>> Artist: Green Day
+
+>> Song Title: In The End
+
+>> Album: Dookie (U.S. Version)
+
+>> Listen to Preview At: https://p.scdn.co/mp3-preview/f9062a2cecb9c6c509d9ef5a157bc1ccbb27311a?cid=d64873b961364518b9538bcb84b5db2a
+____________________________
+Result[ 5 ]:
+--------
+
+>> Artist: Black Veil Brides
+
+>> Song Title: In The End
+
+>> Album: Wretched and Divine: The Story Of The Wild Ones Ultimate Edition
+
+>> Listen to Preview At: https://p.scdn.co/mp3-preview/f9062a2cecb9c6c509d9ef5a157bc1ccbb27311a?cid=d64873b961364518b9538bcb84b5db2a
+____________________________
+Result[ 6 ]:
+--------
+
+>> Artist: STRFKR
+
+>> Song Title: In The End
+
+>> Album: Being No One, Going Nowhere
+
+>> Listen to Preview At: https://p.scdn.co/mp3-preview/5341fe0049c0ec4043add601e43e11439d774aab?cid=d64873b961364518b9538bcb84b5db2a
+____________________________
+
+
+++++++++++++++++++++++++++++++++++++++++++++++
