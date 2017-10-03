@@ -10,10 +10,13 @@ In a new Terminal window go to directory which contains liri.js,
 
 	available commands: 
 		
-			-my-tweets
-		    -movie-this
-		    -spotify-this-song
-		    -do-what-it-says
+       			-my-tweets
+
+			-movie-this
+
+		        -spotify-this-song
+
+		        -do-what-it-says
 
 Passing an argument is optional, except my-tweets and do-what-it-says which take no arguments.
 
