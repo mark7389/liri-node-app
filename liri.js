@@ -4,7 +4,6 @@ const request = require("request");
 const client = keys.twitterKeys;
 const spotifyClient = keys.spotifyKeys;
 const log = "log.txt";
-
 var twitterData = "", spotifyData = "" , movieInfo = "";
 
 let myCommand = process.argv[2];
@@ -44,6 +43,7 @@ fs.readdir(".", function(err, data){
 });
 function appendLog(results){
 
+	
 
 	if(logFile){
 
@@ -119,7 +119,7 @@ function getTweets(){
 			
 			for(var i=0; i<20; i++){
 
-				twitterData += "Tweet: "+tweets[i].text+"\n\n Created@>> "+tweets[i].created_at+"\n\n";
+				twitterData += "	Tweet: "+tweets[i].text+"\n\n Created@>> "+tweets[i].created_at+"\n\n";
 				
 				
 
@@ -191,10 +191,10 @@ function spotifyThis(){
 					}
 					songAlbum = tracksArr[i].album.name;
 					spotifyData += "Result[ "+ctr+" ]:"+"\n"+"--------"+"\n\n"+
-								  ">> Artist: " +artist+"\n\n"+
-						          ">> Song Title: "+songName+"\n\n"+
-						          ">> Album: "+songAlbum+"\n\n"+
-						          ">> Listen to Preview At: "+link+"\n"+"____________________________"+"\n";
+								  "		>> Artist: " +artist+"\n\n"+
+						          "		>> Song Title: "+songName+"\n\n"+
+						          "		>> Album: "+songAlbum+"\n\n"+
+						          "		>> Listen to Preview At: "+link+"\n"+"____________________________"+"\n";
 					
 				}
 
@@ -225,14 +225,14 @@ function movieData(){
   				
 
   				var myObj = JSON.parse(body);
-  				movieInfo = " * Title of the movie: "+myObj.Title+"\n\n"+
-   			 				" * Year the movie came out: "+myObj.Year+"\n\n"+
-   			 				" * IMDB Rating of the Movie: "+myObj.imdbRating+"\n\n"+
-   			 				" * Rotten Tomatoes Rating of the movie: "+myObj.Ratings[1].Value+"\n\n"+
-   			 				" * Country where the movie was produced: "+myObj.Country+"\n\n"+
-   			 				" * Language of the movie: "+myObj.Language+"\n\n"+
-   			 				" * Plot of the movie: "+myObj.Plot+"\n\n"+
-   			 				" * Actors in the movie: "+myObj.Actors+"\n\n"; 
+  				movieInfo = " 	* Title of the movie: "+myObj.Title+"\n\n"+
+   			 				" 	* Year the movie came out: "+myObj.Year+"\n\n"+
+   			 				" 	* IMDB Rating of the Movie: "+myObj.imdbRating+"\n\n"+
+   			 				" 	* Rotten Tomatoes Rating of the movie: "+myObj.Ratings[1].Value+"\n\n"+
+   			 				" 	* Country where the movie was produced: "+myObj.Country+"\n\n"+
+   			 				" 	* Language of the movie: "+myObj.Language+"\n\n"+
+   			 				" 	* Plot of the movie: "+myObj.Plot+"\n\n"+
+   			 				" 	* Actors in the movie: "+myObj.Actors+"\n\n"; 
    			 	console.log(movieInfo);
    			 	appendLog(movieInfo);
   			}
