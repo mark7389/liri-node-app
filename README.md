@@ -9,14 +9,11 @@ In a new Terminal window go to directory which contains liri.js,
 	Type: Node liri.js <command> <argument>
 
 	available commands: 
-		
-       			-my-tweets
 
-			-movie-this
+		-my-tweets	-spotify-this-song
 
-		        -spotify-this-song
+		-movie-this	-do-what-it-says	
 
-		        -do-what-it-says
 
 Passing an argument is optional, except my-tweets and do-what-it-says which take no arguments.
 
