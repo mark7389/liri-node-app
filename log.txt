@@ -1,0 +1,240 @@
+command: my-tweets
+Searched For: again
+Results: 
+
+	Tweet: RT @ClickHole: Sustainability FTW! This Couple Cooks All The Chunks Of Meat That Come Flying Out Of The Portal That Opened Up In Its Backya…
+
+ 	 Created@>> Sat Sep 30 02:43:26 +0000 2017
+
+	Tweet: When will I build a package
+
+ 	 Created@>> Sat Sep 30 02:43:12 +0000 2017
+
+	Tweet: Not sure the node app is secure
+
+ 	 Created@>> Sat Sep 30 02:42:34 +0000 2017
+
+	Tweet: When where why
+
+ 	 Created@>> Sat Sep 30 02:42:11 +0000 2017
+
+	Tweet: Who to Follow
+
+ 	 Created@>> Sat Sep 30 02:41:53 +0000 2017
+
+	Tweet: aaaaa bbbb cccc
+
+ 	 Created@>> Sat Sep 30 02:41:40 +0000 2017
+
+	Tweet: are they 20 yet
+
+ 	 Created@>> Sat Sep 30 02:41:25 +0000 2017
+
+	Tweet: This gets someone rich and famous
+
+ 	 Created@>> Sat Sep 30 02:41:06 +0000 2017
+
+	Tweet: This gets a journalist fired
+
+ 	 Created@>> Sat Sep 30 02:40:27 +0000 2017
+
+	Tweet: This gets retweeted a lot
+
+ 	 Created@>> Sat Sep 30 02:40:17 +0000 2017
+
+	Tweet: Something really important that nobody pays attention to
+
+ 	 Created@>> Sat Sep 30 02:40:00 +0000 2017
+
+	Tweet: Some news that will soon be forgotten
+
+ 	 Created@>> Sat Sep 30 02:39:24 +0000 2017
+
+	Tweet: woop woop
+
+ 	 Created@>> Sat Sep 30 02:38:59 +0000 2017
+
+	Tweet: Something the donald will tweet
+
+ 	 Created@>> Sat Sep 30 02:38:45 +0000 2017
+
+	Tweet: Something a celebrity will tweet
+
+ 	 Created@>> Sat Sep 30 02:38:16 +0000 2017
+
+	Tweet: Something an activist will tweet
+
+ 	 Created@>> Sat Sep 30 02:37:57 +0000 2017
+
+	Tweet: RT @TheOnion: Horrified Man Looks On Powerlessly As He Ruins Date https://t.co/USNEwLJrWm https://t.co/ANLN5crf7b
+
+ 	 Created@>> Sat Sep 30 02:37:00 +0000 2017
+
+	Tweet: RT @SenSanders: Republicans' budget would cut Medicare by at least $450 billion, but would give billionaires, including President Trump, hu…
+
+ 	 Created@>> Sat Sep 30 02:36:49 +0000 2017
+
+	Tweet: Testing node
+
+ 	 Created@>> Sat Sep 30 02:36:15 +0000 2017
+
+	Tweet: Hi
+
+ 	 Created@>> Sat Sep 30 02:33:36 +0000 2017
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++
+command: spotify-this-song
+Searched For: Ouda
+Results: 
+
+	Result[ 1 ]:
+	 --------
+
+		>> Artist: Hamied El Shaeri
+
+		>> Song Title: Ouda
+
+		>> Album: Kawahel
+
+		>> Listen to Preview At: https://p.scdn.co/mp3-preview/abca9f269b9f0e0f556ca157b1978849977ac520?cid=d64873b961364518b9538bcb84b5db2a
+____________________________
+
+	Result[ 2 ]:
+	 --------
+
+		>> Artist: Matycez
+
+		>> Song Title: Ouda
+
+		>> Album: Omkara
+
+		>> Listen to Preview At: https://p.scdn.co/mp3-preview/3278ab72e45f83d1c37de18b9f2437a4638a9b4d?cid=d64873b961364518b9538bcb84b5db2a
+____________________________
+
+	Result[ 3 ]:
+	 --------
+
+		>> Artist: Various Artists
+
+		>> Song Title: Ouda
+
+		>> Album: Asasease Records Mixtapes, Vol. 1
+
+		>> Listen to Preview At: https://p.scdn.co/mp3-preview/d355ebdac9ba8044c2e96356edd2aada6e266448?cid=d64873b961364518b9538bcb84b5db2a
+____________________________
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++
+command: spotify-this-song
+Searched For: The Sign
+Results: 
+
+	Result[ 1 ]:
+	 --------
+
+		>> Artist: Ace of Base
+
+		>> Song Title: The Sign
+
+		>> Album: The Sign (US Album) [Remastered]
+
+		>> Listen to Preview At: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=d64873b961364518b9538bcb84b5db2a
+____________________________
+
+	Result[ 2 ]:
+	 --------
+
+		>> Artist: Ace of Base
+
+		>> Song Title: The Sign
+
+		>> Album: Greatest Hits
+
+		>> Listen to Preview At: https://p.scdn.co/mp3-preview/5ca0168d6b58e0f993b2b741af90ecc7c9b16893?cid=d64873b961364518b9538bcb84b5db2a
+____________________________
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++
+command: spotify-this-song
+Searched For: In The End
+Results: 
+
+	Result[ 1 ]:
+	 --------
+
+		>> Artist: Linkin Park
+
+		>> Song Title: In The End
+
+		>> Album: Hybrid Theory (Bonus Track Version)
+
+		>> Listen to Preview At: https://p.scdn.co/mp3-preview/23552502ef8477c882d6f2ae07e7579f38b8a92d?cid=d64873b961364518b9538bcb84b5db2a
+____________________________
+
+	Result[ 2 ]:
+	 --------
+
+		>> Artist: Black Veil Brides
+
+		>> Song Title: In The End
+
+		>> Album: Wretched And Divine: The Story Of The Wild Ones
+
+		>> Listen to Preview At: https://p.scdn.co/mp3-preview/23552502ef8477c882d6f2ae07e7579f38b8a92d?cid=d64873b961364518b9538bcb84b5db2a
+____________________________
+
+	Result[ 3 ]:
+	 --------
+
+		>> Artist: Linkin Park
+
+		>> Song Title: In The End
+
+		>> Album: Hybrid Theory
+
+		>> Listen to Preview At: https://p.scdn.co/mp3-preview/23552502ef8477c882d6f2ae07e7579f38b8a92d?cid=d64873b961364518b9538bcb84b5db2a
+____________________________
+
+	Result[ 4 ]:
+	 --------
+
+		>> Artist: Green Day
+
+		>> Song Title: In The End
+
+		>> Album: Dookie (U.S. Version)
+
+		>> Listen to Preview At: https://p.scdn.co/mp3-preview/f9062a2cecb9c6c509d9ef5a157bc1ccbb27311a?cid=d64873b961364518b9538bcb84b5db2a
+____________________________
+
+	Result[ 5 ]:
+	 --------
+
+		>> Artist: Black Veil Brides
+
+		>> Song Title: In The End
+
+		>> Album: Wretched and Divine: The Story Of The Wild Ones Ultimate Edition
+
+		>> Listen to Preview At: https://p.scdn.co/mp3-preview/f9062a2cecb9c6c509d9ef5a157bc1ccbb27311a?cid=d64873b961364518b9538bcb84b5db2a
+____________________________
+
+	Result[ 6 ]:
+	 --------
+
+		>> Artist: STRFKR
+
+		>> Song Title: In The End
+
+		>> Album: Being No One, Going Nowhere
+
+		>> Listen to Preview At: https://p.scdn.co/mp3-preview/5341fe0049c0ec4043add601e43e11439d774aab?cid=d64873b961364518b9538bcb84b5db2a
+____________________________
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++

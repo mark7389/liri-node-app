@@ -137,7 +137,7 @@ function spotifyThis(){
 	
 	if(myQuery == ""){
 
-		myQuery = "The Sign ";
+		myQuery = "The Sign";
 		
 		
 	}
