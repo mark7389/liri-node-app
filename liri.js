@@ -119,7 +119,7 @@ function getTweets(){
 			
 			for(var i=0; i<20; i++){
 
-				twitterData += "	Tweet: "+tweets[i].text+"\n\n Created@>> "+tweets[i].created_at+"\n\n";
+				twitterData += "	Tweet: "+tweets[i].text+"\n\n 	 Created@>> "+tweets[i].created_at+"\n\n";
 				
 				
 
@@ -190,11 +190,11 @@ function spotifyThis(){
 
 					}
 					songAlbum = tracksArr[i].album.name;
-					spotifyData += "Result[ "+ctr+" ]:"+"\n"+"--------"+"\n\n"+
+					spotifyData += "	Result[ "+ctr+" ]:"+"\n"+"	 --------"+"\n\n"+
 								  "		>> Artist: " +artist+"\n\n"+
 						          "		>> Song Title: "+songName+"\n\n"+
 						          "		>> Album: "+songAlbum+"\n\n"+
-						          "		>> Listen to Preview At: "+link+"\n"+"____________________________"+"\n";
+						          "		>> Listen to Preview At: "+link+"\n"+"____________________________"+"\n\n";
 					
 				}
 
