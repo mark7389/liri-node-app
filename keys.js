@@ -3,18 +3,18 @@ const spotify = require("node-spotify-api");
 
 var spotifyKeys = new spotify({
 
-	id: '<  >',
-	secret: '<  >'
+	id: "",
+	secret: ""
 
 
 });
 
 var twitterKeys = new twitter({
 
-  consumer_key:'<  >',
-  consumer_secret:'<  >',
-  access_token_key:'<  >',
-  access_token_secret:'<  >'
+  consumer_key:'',
+  consumer_secret:'',
+  access_token_key:'',
+  access_token_secret:'' ,
 
 });
 
